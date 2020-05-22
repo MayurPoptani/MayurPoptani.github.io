@@ -40775,7 +40775,7 @@ t=r}while(true)switch(t){case 0:i={}
 i.a=null
 r=3
 t=6
-return P.aE(G.a6R("http://www.mocky.io/v2/5ebd2f5f31000018005b117f"),$async$k_)
+return P.aE(G.a6R("https://www.mocky.io/v2/5ebd2f5f31000018005b117f"),$async$k_)
 case 6:n=b
 o.e=!0
 r=8
